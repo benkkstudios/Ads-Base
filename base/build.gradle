@@ -49,6 +49,7 @@ dependencies {
     debugImplementation libs.androidx.ui.tooling
     debugImplementation libs.androidx.ui.test.manifest
 
+    //noinspection UseTomlInstead
     implementation "com.google.android.gms:play-services-ads:23.6.0"
 }
 
